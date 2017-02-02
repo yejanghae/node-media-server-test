@@ -1,0 +1,15 @@
+{
+  "name": "vue-socket.io",
+  "homepage": "https://github.com/metinseylan/vue-socket.io",
+  "version": "2.1.0",
+  "_release": "2.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.1.0",
+    "commit": "0c778d661f79b3f9dd46819dc590cab7420a49d8"
+  },
+  "_source": "https://github.com/metinseylan/vue-socket.io.git",
+  "_target": "^2.1.0",
+  "_originalSource": "vue-socket.io",
+  "_direct": true
+}
